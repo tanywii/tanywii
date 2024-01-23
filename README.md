@@ -1,14 +1,10 @@
 # Olá, me chamo Witany ! 
 ## Bem vindos Devs 👋
 
-Tenho 23 anos, atualmente moro em Joinville/SC e sou apaixonada por programação e gatinhos!!
-Sou estudante de Análise e Desenvolvimento de Sistema na Universidade Estácio, estou em busca de me tornar uma programadora Java Back-End ❤
+Tenho 23 anos, atualmente moro em Joinville/SC e sou apaixonada por programação👩‍💻 e gatinhos 😻!!
+🎓 Estudante de Análise e Desenvolvimento de Sistema na Universidade Estácio, estou em busca de me tornar uma programadora Java Back-End ❤
 
-<div class="tenor-gif-embed" data-postid="19489640" data-share-method="host" data-aspect-ratio="0.953125" data-width="100%">
-<a href="https://tenor.com/view/kitten-keybo-lap-gif-19489640">Kitten Keybo GIF</a> from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a>
-</div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
-
-## Ferramentas e Tecnologias
+## Ferramentas e Tecnologias 🚀
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
           
@@ -25,7 +21,7 @@ src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-or
             
 <img  loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="40" height="40" />
 
-## Estou aprendendo
+## Estou aprendendo 🎯
 
 <img loading="lazy"
 src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" width="40" height="40" />
