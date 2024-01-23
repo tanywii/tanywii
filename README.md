@@ -4,7 +4,9 @@
 Tenho 23 anos, atualmente moro em Joinville/SC e sou apaixonada por programação e gatinhos!!
 Sou estudante de Análise e Desenvolvimento de Sistema na Universidade Estácio, estou em busca de me tornar uma programadora Java Back-End ❤
 
-<div class="tenor-gif-embed" data-postid="19489640" data-share-method="host" data-aspect-ratio="0.953125" data-width="100%"><a href="https://tenor.com/view/kitten-keybo-lap-gif-19489640">Kitten Keybo GIF</a>from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a></div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
+<div class="tenor-gif-embed" data-postid="19489640" data-share-method="host" data-aspect-ratio="0.953125" data-width="100%">
+<a href="https://tenor.com/view/kitten-keybo-lap-gif-19489640">Kitten Keybo GIF</a> from <a href="https://tenor.com/search/kitten-gifs">Kitten GIFs</a>
+</div> <script type="text/javascript" async src="https://tenor.com/embed.js"></script>
 
 ## Ferramentas e Tecnologias
 
