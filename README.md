@@ -1,10 +1,11 @@
-# Olá, me chamo Witany ! 
+# Olá! 
 ## Bem vindos Devs 👋
 
-Tenho 23 anos, atualmente moro em Joinville/SC e sou apaixonada por programação👩‍💻 e gatinhos 😻!!
-🎓 Estudante de Análise e Desenvolvimento de Sistema na Universidade Estácio, estou em busca de me tornar uma programadora Java Back-End ❤
+# Expertise 🎓
+Sou a Witany Nascimento, uma apaixonada desenvolvedora de software e entusiasta de tecnologia. ❤
+Com mais de 1 ano dedicado a aprimorar minhas habilidades em tecnologias Back-End e Front-End, hoje sou estudante de Análise e Desenvolvimento de Sistemas na universidade Estácio. 
 
-## Ferramentas e Tecnologias 🚀
+## Tech Stack 🚀
 
 <img loading="lazy" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
           
