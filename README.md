@@ -3,7 +3,7 @@
 
 # Expertise 🎓
 Sou a Witany Nascimento, uma apaixonada desenvolvedora de software e entusiasta de tecnologia. 
-Com mais de 1 ano me dedicando a aprimorar minhas habilidades em tecnologias Back-End e Front-End, hoje sou estudante de Análise e Desenvolvimento de Sistemas na universidade Estácio. 
+Estudante de Análise e Desenvolvimento de Sistemas na universidade Estácio com formação para Dezembro de 2025. Com mais de 1 ano me dedicando a aprimorar minhas habilidades em tecnologias Back-End e Front-End, movida por desafios com o propósito de ser um facilitadora na vida das pessoas gerando resultado para o negocio através da tecnologia. 
 
 ## Tech Stack 🚀
 
