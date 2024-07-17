@@ -1,5 +1,5 @@
 
-## Olá, Bem vindos Devs 👋
+## Hello Devs 👋
 
 # Expertise 🎓
 Sou a Witany Nascimento, uma apaixonada desenvolvedora de software e entusiasta de tecnologia. 
